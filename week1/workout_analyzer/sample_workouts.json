@@ -1,0 +1,84 @@
+{
+  "sessions": [
+    {
+      "date": "2026-01-15",
+      "exercise": "Squat",
+      "duration_minutes": 45,
+      "sets": [
+        {"exercise": "Squat", "reps": 5, "weight": 225, "rpe": 7, "date": "2026-01-15", "notes": "Felt strong today"},
+        {"exercise": "Squat", "reps": 5, "weight": 235, "rpe": 8, "date": "2026-01-15", "notes": ""},
+        {"exercise": "Squat", "reps": 3, "weight": 245, "rpe": 9, "date": "2026-01-15", "notes": "Close to max"}
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "exercise": "Bench Press",
+      "duration_minutes": 50,
+      "sets": [
+        {"exercise": "Bench Press", "reps": 5, "weight": 185, "rpe": 7, "date": "2026-01-18", "notes": ""},
+        {"exercise": "Bench Press", "reps": 5, "weight": 195, "rpe": 8, "date": "2026-01-18", "notes": ""},
+        {"exercise": "Bench Press", "reps": 3, "weight": 205, "rpe": 9, "date": "2026-01-18", "notes": "New PR!"}
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "exercise": "Squat",
+      "duration_minutes": 48,
+      "sets": [
+        {"exercise": "Squat", "reps": 5, "weight": 235, "rpe": 7, "date": "2026-01-22", "notes": ""},
+        {"exercise": "Squat", "reps": 5, "weight": 245, "rpe": 8, "date": "2026-01-22", "notes": ""},
+        {"exercise": "Squat", "reps": 2, "weight": 255, "rpe": 9.5, "date": "2026-01-22", "notes": "NEW PR! 255lbs"}
+      ]
+    },
+    {
+      "date": "2026-01-25",
+      "exercise": "Deadlift",
+      "duration_minutes": 55,
+      "sets": [
+        {"exercise": "Deadlift", "reps": 3, "weight": 315, "rpe": 8, "date": "2026-01-25", "notes": ""},
+        {"exercise": "Deadlift", "reps": 3, "weight": 335, "rpe": 9, "date": "2026-01-25", "notes": ""},
+        {"exercise": "Deadlift", "reps": 1, "weight": 355, "rpe": 9.8, "date": "2026-01-25", "notes": "Max effort"}
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "exercise": "Bench Press",
+      "duration_minutes": 52,
+      "sets": [
+        {"exercise": "Bench Press", "reps": 5, "weight": 195, "rpe": 7, "date": "2026-02-01", "notes": ""},
+        {"exercise": "Bench Press", "reps": 5, "weight": 205, "rpe": 8, "date": "2026-02-01", "notes": ""},
+        {"exercise": "Bench Press", "reps": 3, "weight": 215, "rpe": 9, "date": "2026-02-01", "notes": "NEW PR! 215lbs"}
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "exercise": "Squat",
+      "duration_minutes": 46,
+      "sets": [
+        {"exercise": "Squat", "reps": 5, "weight": 245, "rpe": 7, "date": "2026-02-05", "notes": ""},
+        {"exercise": "Squat", "reps": 5, "weight": 255, "rpe": 8, "date": "2026-02-05", "notes": ""},
+        {"exercise": "Squat", "reps": 1, "weight": 265, "rpe": 9.8, "date": "2026-02-05", "notes": "NEW PR! 265lbs"}
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "exercise": "Deadlift",
+      "duration_minutes": 58,
+      "sets": [
+        {"exercise": "Deadlift", "reps": 3, "weight": 335, "rpe": 8, "date": "2026-02-08", "notes": ""},
+        {"exercise": "Deadlift", "reps": 3, "weight": 355, "rpe": 9, "date": "2026-02-08", "notes": ""},
+        {"exercise": "Deadlift", "reps": 1, "weight": 375, "rpe": 9.9, "date": "2026-02-08", "notes": "NEW PR! 375lbs"}
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "exercise": "Bench Press",
+      "duration_minutes": 51,
+      "sets": [
+        {"exercise": "Bench Press", "reps": 5, "weight": 205, "rpe": 7, "date": "2026-02-12", "notes": ""},
+        {"exercise": "Bench Press", "reps": 5, "weight": 215, "rpe": 8, "date": "2026-02-12", "notes": ""},
+        {"exercise": "Bench Press", "reps": 2, "weight": 225, "rpe": 9.5, "date": "2026-02-12", "notes": "NEW PR! 225lbs"}
+      ]
+    }
+  ]
+}
